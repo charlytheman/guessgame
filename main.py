@@ -74,3 +74,4 @@ while play_again.lower() == "yes":  # Loop until the player decides to quit
 
 print("Thanks for playing!")
 
+
